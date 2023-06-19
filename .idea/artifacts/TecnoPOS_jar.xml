@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TecnoPOS:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="TecnoPOS.jar">
+      <element id="module-output" name="TecnoPOS" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/wesjd/anvilgui/1.6.5-SNAPSHOT/anvilgui-1.6.5-20230514.214322-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

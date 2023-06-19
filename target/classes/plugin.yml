@@ -1,0 +1,10 @@
+name: TecnoPOS
+version: '1.0-SNAPSHOT'
+main: me.wiceh.tecnopos.TecnoPOS
+author: wIceh
+softdepend: [ Vault ]
+description: Plugin simile al POS di TecnoCraft
+commands:
+  pos:
+    description: "Ottieni il POS"
+    aliases: [ tecnopos, tpos ]
